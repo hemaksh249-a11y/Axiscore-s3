@@ -1,4 +1,0 @@
-Component,Purpose,Quantity,Total Cost (USD),Distributor,Read
-ESP32-S3-WROOM-1,"Main controller responsible for CNC motion control, communication, spindle management, and machine I/O",1,10.48,DigiKey,"Manually soldered to reduce assembly costs and provide flexibility during development"
-Custom PCBA,"Complete AxisCore CNC controller board including isolated inputs, RS485 communication, spindle control, power regulation, protection circuitry, and external driver interfaces",1,182.00,JLCPCB,"Serves as the core hardware platform for CNC and automation applications, integrating all control and interface circuitry into a single board"
-FINAL TOTAL,,,192.48,,"Approx INR Cost: ₹16,500"
